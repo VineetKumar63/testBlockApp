@@ -13,11 +13,11 @@ This Next.js application allows users to send Ethereum tokens to specified addre
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/VineetKumar63/testBlockApp.git
    ```
 2. **Install dependencies:**
    ```bash
-   cd your-repo-name
+   cd testBlockApp
    npm install
    ```
 
